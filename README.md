@@ -11,10 +11,9 @@ This system is designed to manage locker assignments efficiently. It allows admi
 
 **Leader**: RG A. Minoza  
 **Member**: 
-Lucky Anjay Dela Cruz
 
-Krisden Agir
-
+Lucky Anjay Dela Cruz,
+Krisden Agir,
 Bien Felipe Abueva
 
 
