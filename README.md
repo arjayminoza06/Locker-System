@@ -10,9 +10,10 @@ This system is designed to manage locker assignments efficiently. It allows admi
 **Group 5:**
 
 **Leader**: RG A. Minoza  
-**Member**: Lucky Anjay Dela Cruz
-            Krisden Agir
-            Bien Felipe Abueva
+**Member**: 
+Lucky Anjay Dela Cruz
+Krisden Agir
+Bien Felipe Abueva
 
 ## 📌 System Flow (Overview)
 
