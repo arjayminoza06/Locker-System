@@ -8,11 +8,11 @@ This system is designed to manage locker assignments efficiently. It allows admi
 **System Title:** Locker Management System  
 
 **Group 5:**
-__Leader__: RG A. Minoza  
-__Member__: Lucky Anjay Dela Cruz
+**Leader**: RG A. Minoza  
+**Member**: Lucky Anjay Dela Cruz
             Krisden Agir
             Bien Felipe Abueva
----
+
 ## 📌 System Flow (Overview)
 
 1. Admin logs into the system  
