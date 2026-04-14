@@ -66,5 +66,6 @@ This system is designed to manage locker assignments efficiently. It allows admi
 - System redirects to login page  
 
 ## 📌 Flowchart 
-<img width="1920" height="1431" alt="FLOWCHART drawio" src="https://github.com/user-attachments/assets/27486e7f-291d-4712-81b5-4126673ecec1" />
+<img width="1919" height="1741" alt="FLOWCHART drawio (1)" src="https://github.com/user-attachments/assets/021bca19-2236-44cc-b673-8b37c286310d" />
+
 
